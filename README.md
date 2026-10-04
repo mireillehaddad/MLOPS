@@ -47,3 +47,9 @@ then we install requirements
 ```
 python -m pip install -r requirements.txt
 ```
+
+then freeze packages
+
+```
+pip freeze > requirements.txt       
+```
