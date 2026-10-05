@@ -14,7 +14,7 @@ python -m venv .venv
 to authenticate with GCP
 
 ```
-gcloud auth login
+ gcloud auth application-default login
 ```
 
 Enable vertex AI in API's and services 
